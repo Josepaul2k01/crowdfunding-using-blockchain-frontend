@@ -22,17 +22,16 @@ The project leverages blockchain technology to develop a secure, decentralized c
 ![Home Page](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/1.jpeg)
 
 ### 2. Create Campaign
-![Create Campaign](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/2.jpeg)
-
+![Create Campaign](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/2.png)
 ### 3. Campaign Details
-![Campaign Details](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/3.jpeg)
+![Campaign Details](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/3.png)
 
 ### 4. Contribute to Campaign
-![Digital Sign](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/4.jpeg)
+![Digital Sign](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/4.png)
 
 ### 5. MetaMask Integration
-![MetaMask Wallet Before Transaction](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/5.jpeg)
+![MetaMask Wallet Before Transaction](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/5.png)
 
 ### 6. User Dashboard
-![Metamask Wallet After Transaction](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/6.jpeg)
+![Metamask Wallet After Transaction](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/6.png)
 
