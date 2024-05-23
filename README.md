@@ -1,3 +1,5 @@
+# Crowdfunding Using Blockchain
+
 ## Overview
 
 This project is a blockchain-based crowdfunding platform designed to enhance the security, privacy, and transparency of crowdfunding activities. Built with React and Vite, and leveraging Ethereum smart contracts, the platform allows for decentralized, trustless, and transparent fundraising.
@@ -13,3 +15,24 @@ This project is a blockchain-based crowdfunding platform designed to enhance the
 ## Abstract
 
 The project leverages blockchain technology to develop a secure, decentralized crowdfunding platform. By utilizing Ethereum smart contracts, the platform ensures that all transactions are transparent and immutable, addressing the common issues of trust and transparency in traditional crowdfunding systems. The integration with MetaMask allows for secure management of digital assets, providing users with a seamless and secure method for contributing to campaigns. This approach not only enhances the security and privacy of the transactions but also ensures that the contributors have complete control over their funds until the specified conditions of the campaign are met.
+
+## Screenshots
+
+### 1. Home Page
+![Home Page](client/screenshots/1.jpeg)
+
+### 2. Create Campaign
+![Create Campaign](screenshots/2.jpeg)
+
+### 3. Campaign Details
+![Campaign Details](screenshots/3.jpeg)
+
+### 4. Contribute to Campaign
+![Contribute to Campaign](screenshots/4.jpeg)
+
+### 5. MetaMask Integration
+![MetaMask Integration](screenshots/5.jpeg)
+
+### 6. User Dashboard
+![User Dashboard](screenshots/6.jpeg)
+
