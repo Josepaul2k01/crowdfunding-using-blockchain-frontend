@@ -26,12 +26,12 @@ The project leverages blockchain technology to develop a secure, decentralized c
 ### 3. Campaign Details
 ![Campaign Details](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/3.png)
 
-### 4. Contribute to Campaign
+### 4. Digital Sign
 ![Digital Sign](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/4.png)
 
-### 5. MetaMask Integration
+### 5. MetaMask Wallet Before Transaction
 ![MetaMask Wallet Before Transaction](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/5.png)
 
-### 6. User Dashboard
+### 6. Metamask Wallet After Transaction
 ![Metamask Wallet After Transaction](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/6.png)
 
