@@ -19,7 +19,7 @@ The project leverages blockchain technology to develop a secure, decentralized c
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](client/screenshots/1.jpeg)
+![Home Page](https://github.com/Josepaul2k01/crowdfunding-using-blockchain-frontend/blob/main/screenshots/1.jpeg)
 
 ### 2. Create Campaign
 ![Create Campaign](screenshots/2.jpeg)
